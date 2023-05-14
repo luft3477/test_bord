@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+#box {
+    width: 80%;
+    margin: 20px auto;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+}
+
+.iine, .com {
+    color: #333;
+}
+
+.iine a, .com a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.iine a:hover, .com a:hover {
+    text-decoration: underline;
+}
+
+#hidari {
+    width: 80%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+#hidari a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+#hidari a:hover {
+    text-decoration: underline;
+}
